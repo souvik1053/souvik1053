@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Souvik Samantar</h1>
+<h1 align="center">Hi 👋, I'm Souvik Samanta</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souvik1053&label=Profile%20views&color=0e75b6&style=flat" alt="souvik1053" /> </p>
