@@ -46,6 +46,12 @@
   </p>
 </div>
 
+<!-- Activity Graph Section -->
+<div align="center" style="padding: 20px; background-color: #1e1e2f; border-radius: 15px;">
+  <h2 style="color: #4caf50;">🌟 Contribution Graph</h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=souvik1053&theme=react-dark&hide_border=true" alt="Activity Graph" />
+</div>
+
 <!-- Connect Section -->
 <div style="padding: 20px; background-color: #1e1e2f; border-radius: 15px;">
   <h2 style="color: #4caf50;">🔗 Connect With Me</h2>
